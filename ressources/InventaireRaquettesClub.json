@@ -1,0 +1,611 @@
+[
+ {
+   "Brand": "Andro",
+   "Model": "Impuls Speed",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Andro",
+   "Model": "Impuls Speed",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Andro",
+   "Model": "Rasanter R42",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Artengo",
+   "Model": "7020",
+   "Thickness": "1,8",
+   "Color": "Black",
+   "Authorised": "No"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Bryce",
+   "Thickness": "2,1",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Bryce Speed",
+   "Thickness": "2,1",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Bryce Speed",
+   "Thickness": "2,1",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Bryce Speed FX",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Bryce Speed FX",
+   "Thickness": "2,1",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Bryce Speed FX",
+   "Thickness": "2,1",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Bryce Speed FX",
+   "Thickness": "2,1",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "No"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver EL",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver EL",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver EL",
+   "Thickness": "1,9",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,7",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "1,9",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Sriver FX",
+   "Thickness": "2,1",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Butterfly",
+   "Model": "Tackiness-C II",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Donic",
+   "Model": "Acuda S2",
+   "Thickness": "1,8",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Donic",
+   "Model": "Acuda S2",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Donic",
+   "Model": "Desto F3",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Donic",
+   "Model": "Desto F3",
+   "Thickness": "2,2",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Donic",
+   "Model": "Vario",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Friendship",
+   "Model": "R.I.T.C. 729 Dr.Evil",
+   "Thickness": "0X",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Friendship",
+   "Model": "Super 729 FX",
+   "Thickness": "1,5",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Friendship",
+   "Model": "Super 729 FX",
+   "Thickness": "1,4",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Gewo",
+   "Model": "Hype EL",
+   "Thickness": "1,9",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Gewo",
+   "Model": "NeXXus Pro 43",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Gewo",
+   "Model": "NeXXus Pro 48",
+   "Thickness": "2,2",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Joola",
+   "Model": "Express",
+   "Thickness": "1,8",
+   "Color": "Black",
+   "Authorised": "No"
+ },
+ {
+   "Brand": "Joola",
+   "Model": "Express",
+   "Thickness": "1,8",
+   "Color": "Red",
+   "Authorised": "No"
+ },
+ {
+   "Brand": "JUIC",
+   "Model": "999 Elite",
+   "Thickness": "1,5",
+   "Color": "Red",
+   "Authorised": "No"
+ },
+ {
+   "Brand": "JUIC",
+   "Model": "Varites",
+   "Thickness": "1,3",
+   "Color": "Black",
+   "Authorised": "No"
+ },
+ {
+   "Brand": "Kokutaku",
+   "Model": "Tuple 119",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Palio",
+   "Model": "CJ8000",
+   "Thickness": "2,2",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Palio",
+   "Model": "CJ8000",
+   "Thickness": "2,2",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Palio",
+   "Model": "CJ8000",
+   "Thickness": "2,2",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Palio",
+   "Model": "CJ8000",
+   "Thickness": "2,2",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Palio",
+   "Model": "CJ8000",
+   "Thickness": "2,2",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Palio",
+   "Model": "CJ8000",
+   "Thickness": "2,2",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Palio",
+   "Model": "CJ8000",
+   "Thickness": "2,2",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Palio",
+   "Model": "Hadou",
+   "Thickness": "2,2",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Spider",
+   "Model": "King",
+   "Thickness": "2,2",
+   "Color": "Black",
+   "Authorised": "No"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Almana Sound",
+   "Thickness": "1,8",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Boost TS",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Carbo MC",
+   "Thickness": "1,8",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Genesis",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "No"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Innova",
+   "Thickness": "1,8",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Innova Ultra Light",
+   "Thickness": "1,8",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Innova Ultra Light",
+   "Thickness": "1,7",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Mendo Energy",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Stiga",
+   "Model": "Neos Sound",
+   "Thickness": "1,8",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Aurus Soft",
+   "Thickness": "1,7",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Aurus Soft",
+   "Thickness": "1,7",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Aurus Soft",
+   "Thickness": "2,1",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Aurus Sound",
+   "Thickness": "1,9",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Aurus Sound",
+   "Thickness": "1,7",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Aurus Sound",
+   "Thickness": "1,7",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Aurus Sound",
+   "Thickness": "1,7",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Evolution EL-P",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Evolution EL-S",
+   "Thickness": "2,2",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Evolution FX-P",
+   "Thickness": "1,8",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Evolution FX-P",
+   "Thickness": "1,8",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Evolution FX-P",
+   "Thickness": "1,8",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Evolution FX-S",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Evolution MX-P",
+   "Thickness": "2,2",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Genius",
+   "Thickness": "1,8",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Nimbus",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Nimbus Soft",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Nimbus Soft",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Nimbus Sound",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Nimbus Sound",
+   "Thickness": "2,0",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Rapid",
+   "Thickness": "1,8",
+   "Color": "Black",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Rapid Soft",
+   "Thickness": "2,0",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Vari Spin",
+   "Thickness": "1,3",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Tibhar",
+   "Model": "Vari Spin D.TecS",
+   "Thickness": "1,8",
+   "Color": "Red",
+   "Authorised": "Yes"
+ },
+ {
+   "Brand": "Yasaka",
+   "Model": "New Era",
+   "Thickness": "2,2",
+   "Color": "Red",
+   "Authorised": "No"
+ }
+]
